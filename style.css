@@ -5,14 +5,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background : linear-gradient(120deg, rgb(96, 238, 181) 60%, cyan );
+    background: red;
 }
 
 .container {
-    background: white;
+    background: rgb(200, 36, 36);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(54, 49, 49, 0.1);
     text-align: center;
 }
 
